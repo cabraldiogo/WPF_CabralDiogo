@@ -33,3 +33,5 @@ var year2 = (year1+year1*i);
 var year3 = (year2+year2*i);
 
 console.log(year1+' '+ year2+' '+year3);
+
+
