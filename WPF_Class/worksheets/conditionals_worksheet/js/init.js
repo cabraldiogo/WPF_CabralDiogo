@@ -6,6 +6,9 @@
  * To change this template use File | Settings | File Templates.
  */
 
+
+//    DIOGO CABRAL - 9/18/2013 - Conditionals Worksheet
+
 // Last Chance for Gas - Exercise
 //A driver has to determine if they can make it across the desert with their current fuel.
 //They are about to past the last gas station for the next 200 miles and
@@ -32,7 +35,7 @@ if (percentTank >=0.7){
 //A student earns a number grade at the conclusion of a course at Full Sail
 //Determine the appropriate letter grade for that number using conditional statements.
 
-var studentGrade = 95;
+var studentGrade = 69;
 
 var gradeLetter = "";
 
@@ -59,3 +62,19 @@ if (studentGrade>=95){
 }
 
 console.log("You have a " + studentGrade + "%, which means you have earned a(n) "+ gradeLetter + " in the class");
+
+
+//Movie Ticket Price
+
+
+var time = 6;
+var age = 55;
+var ticketPrice = "";
+
+if (age>=55 || age<10 || time>=3 && time<=5){
+    ticketPrice = "7";
+} else {
+    ticketPrice = "12"
+}
+
+console.log("The ticket price is " + ticketPrice + " dollars");
