@@ -5,9 +5,10 @@
     <ignored path="WPF_CabralDiogo.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379379626704" ignored="false" />
-    <file path="/index.html" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379372051870" ignored="false" />
+    <file path="/index.html" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379383994118" ignored="false" />
     <file path="/day4.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379376058292" ignored="false" />
-    <file path="/initial.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379374536267" ignored="false" />
+    <file path="/initial.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379383228158" ignored="false" />
+    <file path="/init.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379389594078" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,19 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WPF_Class/wpf_day4/index.html">
+      <file leaf-file-name="init.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_industry/js/init.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="27" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day4.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WPF_Class/wpf_day4/js/day4.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="0" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.71910113">
+            <state line="10" column="28" selection-start="248" selection-end="248" vertical-scroll-proportion="0.21067415">
               <folding />
             </state>
           </provider>
@@ -67,6 +59,13 @@
         <option value="$PROJECT_DIR$/WPF_Class/wpf_day4/index.html" />
         <option value="$PROJECT_DIR$/WPF_Class/wpf_day3/js/initial.js" />
         <option value="$PROJECT_DIR$/WPF_Class/wpf_day4/js/day4.js" />
+        <option value="$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_personal/index.html" />
+        <option value="$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_wacky/index.html" />
+        <option value="$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_personal/js/init.js" />
+        <option value="$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_wacky/js/init.js" />
+        <option value="$PROJECT_DIR$/WPF_Class/wpf_day2/js/initial.js" />
+        <option value="$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_industry/index.html" />
+        <option value="$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_industry/js/init.js" />
       </list>
     </option>
   </component>
@@ -131,6 +130,102 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="WPF_Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_CabralDiogo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_CabralDiogo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_CabralDiogo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_CabralDiogo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conditionals_assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_CabralDiogo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_CabralDiogo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conditionals_assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conditionals_industry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_CabralDiogo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_CabralDiogo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conditionals_assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conditionals_industry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -201,12 +296,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="29" width="1420" height="860" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -308,12 +403,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/wpf_day3/js/initial.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="26" selection-start="272" selection-end="272" vertical-scroll-proportion="0.2949438" />
+        <state line="14" column="26" selection-start="272" selection-end="272" vertical-scroll-proportion="0.2949438">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_wacky/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_personal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/wpf_day4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="27" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
+        <state line="6" column="27" selection-start="92" selection-end="92" vertical-scroll-proportion="0.13081396">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_personal/js/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_wacky/js/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Class/WPF/JS/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Class/WPF/JS/expressions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_industry/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="26" selection-start="91" selection-end="91" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Class/wpf_day2/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="47" selection-start="1186" selection-end="1186" vertical-scroll-proportion="1.4536517">
           <folding />
         </state>
       </provider>
@@ -321,6 +476,13 @@
     <entry file="file://$PROJECT_DIR$/WPF_Class/wpf_day4/js/day4.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="67" column="0" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.71910113">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_industry/js/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="28" selection-start="248" selection-end="248" vertical-scroll-proportion="0.21067415">
           <folding />
         </state>
       </provider>
