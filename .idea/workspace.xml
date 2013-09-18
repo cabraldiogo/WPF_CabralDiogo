@@ -8,7 +8,7 @@
     <file path="/index.html" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379513521618" ignored="false" />
     <file path="/day4.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379376058292" ignored="false" />
     <file path="/initial.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379383228158" ignored="false" />
-    <file path="/init.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379516483255" ignored="false" />
+    <file path="/init.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379517545475" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
       <file leaf-file-name="init.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WPF_Class/worksheets/conditionals_worksheet/js/init.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="22" selection-start="557" selection-end="557" vertical-scroll-proportion="0.252809">
+            <state line="60" column="115" selection-start="1533" selection-end="1533" vertical-scroll-proportion="0.8735955">
               <folding>
                 <element signature="e#0#164#0" expanded="false" />
               </folding>
@@ -506,7 +506,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/worksheets/conditionals_worksheet/js/init.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="22" selection-start="557" selection-end="557" vertical-scroll-proportion="0.252809">
+        <state line="60" column="115" selection-start="1533" selection-end="1533" vertical-scroll-proportion="0.8735955">
           <folding>
             <element signature="e#0#164#0" expanded="false" />
           </folding>

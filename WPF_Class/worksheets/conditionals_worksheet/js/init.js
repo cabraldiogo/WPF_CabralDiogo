@@ -26,3 +26,36 @@ if (percentTank >=0.7){
     console.log("You only have "+ actualGallons +  " gallons of gas in your tank, better get gas now while you can!")
 }
 
+
+//Group 2 exercise - Grade Letter Calculator
+
+//A student earns a number grade at the conclusion of a course at Full Sail
+//Determine the appropriate letter grade for that number using conditional statements.
+
+var studentGrade = 95;
+
+var gradeLetter = "";
+
+if (studentGrade>=95){
+    gradeLetter = "A+"
+
+}else if(studentGrade>=90){
+    gradeLetter = "A"
+
+}else if(studentGrade>=85){
+    gradeLetter = "B+"
+
+}else if(studentGrade>=80){
+    gradeLetter = "B"
+
+}else if(studentGrade>=73){
+    gradeLetter = "C"
+
+}else if(studentGrade>=70){
+    gradeLetter = "D"
+
+}else{
+    gradeLetter = "F"
+}
+
+console.log("You have a " + studentGrade + "%, which means you have earned a(n) "+ gradeLetter + " in the class");
