@@ -14,24 +14,32 @@ var week1 = window.parseInt (prompt("How many meters did you run on week 1 ?"));
 //while (week1<=0){
 //    window.prompt("You should enter a value greater than 0 ")
 //}
+//This is a prompt window to input a numeric value
 var week2 = window.parseInt (prompt("How many meters did you run on week 2 ?"));
+
+////This is a prompt window to input a numeric value
 var week3 = window.parseInt (prompt("How many meters did you run on week 3 ?"));
+
+////This is a prompt window to input a numeric value
 var week4 = window.parseInt (prompt("How many meters did you run on week 4 ?"));
 
+//This variable get the sum of all four values entered by the user
 var total = week1+week2+week3+week4;
+
+//This variable get average of the 4 weeks
 var average = total/4;
 
-
+//This conditional states the performance of the runner based on how much he/she ran
 if (total >8000){
    console.log("You did a great job this month!")
 } else if(total > 4000){
-    console.log("You achieve the minimum distance required, but you shoul improve next month")
+    console.log("You achieve the minimum distance required, but you should improve next month")
     }  else {
     console.log("You've been lazy this month. Let' run!")
 }
-
+//This console.log print out the total month performance and the week average
 console.log("Your total run distance was "+ total+ " meters");
-console.log("You ran an average of "+ average + " meters per week this month");
+console.log("This month you ran an average of "+ average + " meters per week");
 
 
 
