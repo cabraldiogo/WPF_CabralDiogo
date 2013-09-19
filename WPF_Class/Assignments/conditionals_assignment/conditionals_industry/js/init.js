@@ -9,18 +9,10 @@
 //Diogo Cabral - 9/16/2013 - Conditionals Assignment//
 
 //    Validation is working
-var week1 = window.parseInt(prompt("How many meters did you run on week 1 ?"));
-if (week1 != parseInt()){
-    window.parseInt(prompt("You should enter a numeric valur"));
-}
-
-var week2 = window.parseInt(prompt("How many meters did you run on week 2 ?"));
-var week3 = window.parseInt(prompt("How many meters did you run on week 3 ?"));
-var week4 = window.parseInt(prompt("How many meters did you run on week 4 ?"));
-
-if (week1 ==""){
-    console.log("You should enter a numeric value")
-}
+var week1 = window.parseInt (prompt("How many meters did you run on week 1 ?"));
+var week2 = window.parseInt (prompt("How many meters did you run on week 2 ?"));
+var week3 = window.parseInt (prompt("How many meters did you run on week 3 ?"));
+var week4 = window.parseInt (prompt("How many meters did you run on week 4 ?"));
 
 var total = week1+week2+week3+week4;
 var average = total/4;
@@ -35,7 +27,7 @@ if (total >8000){
 }
 
 console.log("Your total run distance was "+ total+ " meters");
-console.log("You ran an average of "+ average + " meters this month");
+console.log("You ran an average of "+ average + " meters per week this month");
 
 
 
