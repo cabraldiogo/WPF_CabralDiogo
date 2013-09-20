@@ -8,4 +8,17 @@
 
 //Diogo Cabral - 9/16/2013 - Conditionals Assignment//
 
+var tripDistance = window.prompt("Enter the mile's distance of your trip");
+
+var fuelPerformance = window.prompt("Enter your car fuel performance (Miles per Gallon).");
+
+var gallonCost = window.prompt("Enter an average fuel gallon cost");
+
+var tripFuelCost = (tripDistance/fuelPerformance) * gallonCost;
+
+console.log(tripFuelCost);
+
+
+
+
 
