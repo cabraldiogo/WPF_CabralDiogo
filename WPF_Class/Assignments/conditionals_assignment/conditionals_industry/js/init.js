@@ -9,11 +9,15 @@
 //Diogo Cabral - 9/16/2013 - Conditionals Assignment//
 
 
+//This is a prompt window to input a numeric value
 var week1 = window.parseInt (prompt("How many meters did you run on week 1 ?"));
-//This validation is not working. I even tried to run a IF but it is not working
-//while (week1<=0){
-//    window.prompt("You should enter a value greater than 0 ")
-//}
+if ( week1 = NaN ){
+
+    console.log("Please enter a numeric value")
+
+}
+
+
 //This is a prompt window to input a numeric value
 var week2 = window.parseInt (prompt("How many meters did you run on week 2 ?"));
 
