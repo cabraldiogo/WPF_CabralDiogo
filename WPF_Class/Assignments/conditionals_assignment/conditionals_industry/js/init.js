@@ -11,7 +11,7 @@
 
 //This is a prompt window to input a numeric value
 var week1 = window.parseInt (prompt("How many meters did you run on week 1 ?"));
-if ( week1 = NaN ){
+if (isNaN(week1) ){
 
     console.log("Please enter a numeric value")
 
