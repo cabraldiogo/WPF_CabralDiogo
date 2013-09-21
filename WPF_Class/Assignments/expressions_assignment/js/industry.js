@@ -7,3 +7,8 @@
  */
 
 //Diogo Cabral - Expressions Assignment
+
+//I will create a monthly payment calculator for car financing.
+
+var carPrice = window.prompt("Enter the desired car value");
+
