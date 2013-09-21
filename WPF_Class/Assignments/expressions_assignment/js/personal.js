@@ -14,6 +14,12 @@
 
 var qtyTotalPeople = window.prompt(" Please enter the total number of people that are coming to the barbecue");
 
-console.log(qtyTotalPeople);
+//console.log(qtyTotalPeople);
+
+var qtyMale = window.prompt(" How many males are coming?");
+
+var qtyFemale = window.prompt(" How many females are coming?");
+
+var qtyUnder16 = window.prompt(" How many people under 16 years old are coming?");
 
 

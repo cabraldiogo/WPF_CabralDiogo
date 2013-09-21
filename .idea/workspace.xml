@@ -9,7 +9,7 @@
     <file path="/day4.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379376058292" ignored="false" />
     <file path="/initial.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379383228158" ignored="false" />
     <file path="/init.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379710135455" ignored="false" />
-    <file path="/personal.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379726620300" ignored="false" />
+    <file path="/personal.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379726929059" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="personal.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="28" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
+            <state line="22" column="83" selection-start="691" selection-end="691" vertical-scroll-proportion="0.33707866">
               <folding>
                 <element signature="e#0#163#0" expanded="false" />
               </folding>
@@ -58,10 +58,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="27" selection-start="92" selection-end="92" vertical-scroll-proportion="0.13081396">
+            <state line="6" column="27" selection-start="92" selection-end="92" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
@@ -108,8 +108,8 @@
         <option value="$PROJECT_DIR$/WPF_Class/worksheets/expressions_worksheet/js/expressions.js" />
         <option value="$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/wacky.js" />
         <option value="$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/industry.js" />
-        <option value="$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/personal.js" />
         <option value="$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/index.html" />
+        <option value="$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/personal.js" />
       </list>
     </option>
   </component>
@@ -330,12 +330,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="1420" height="860" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -495,19 +495,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/personal.js">
+    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="28" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#163#0" expanded="false" />
-          </folding>
+        <state line="6" column="27" selection-start="92" selection-end="92" vertical-scroll-proportion="-3.75">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/index.html">
+    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="27" selection-start="92" selection-end="92" vertical-scroll-proportion="0.13081396">
-          <folding />
+        <state line="22" column="83" selection-start="691" selection-end="691" vertical-scroll-proportion="0.33707866">
+          <folding>
+            <element signature="e#0#163#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
