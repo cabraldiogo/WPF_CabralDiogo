@@ -20,10 +20,21 @@ var aprRate = parseInt(window.prompt("Enter the annual percentage rate (APR)."))
 
 var downPayment = parseInt(window.prompt("Enter the downpayment value or the trade-in value"));
 
-var salesTaxDecimal = salesTax/100;
+var salesTaxDecimal = (salesTax/100);
 
 
 
-var totalValue = (carPrice) + (carPrice*salesTaxDecimal) - downPayment;
+var salesTaxValue = (carPrice * salesTaxDecimal);
+var monthlyInterest = (aprRate/12);
+var totalInterest = (monthlyInterest*monthTerms)/100 * (carPrice - downPayment);
+var totalValue = (carPrice - downPayment) * (totalInterest) + (salesTaxValue);
+
+
+
+
+
+console.log(monthlyInterest);
+console.log(totalValueWithTax);
 console.log(totalValue);
+console.log(salesTaxValue);
 
