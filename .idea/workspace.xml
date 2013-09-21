@@ -4,7 +4,7 @@
     <list default="true" id="490582e9-05dd-4b47-a1a2-c5f9651e0242" name="Default" comment="" />
     <ignored path="WPF_CabralDiogo.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379692248016" ignored="false" />
+    <file path="/Dummy.txt" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379724587399" ignored="false" />
     <file path="/index.html" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379714065591" ignored="false" />
     <file path="/day4.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379376058292" ignored="false" />
     <file path="/initial.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379383228158" ignored="false" />
@@ -28,10 +28,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="expressions.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="expressions.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/expressions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="42" selection-start="207" selection-end="207" vertical-scroll-proportion="0.16853933">
+            <state line="40" column="45" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="industry.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/industry.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wacky.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/wacky.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="personal.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/personal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="expressions.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WPF_Class/worksheets/expressions_worksheet/js/expressions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="28" selection-start="1955" selection-end="1955" vertical-scroll-proportion="0.61095506">
               <folding />
             </state>
           </provider>
@@ -55,9 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/WPF_Class/wpf_day3/js/initial.js" />
-        <option value="$PROJECT_DIR$/WPF_Class/wpf_day4/js/day4.js" />
-        <option value="$PROJECT_DIR$/WPF_Class/wpf_day2/js/initial.js" />
         <option value="$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_industry/index.html" />
         <option value="$PROJECT_DIR$/WPF_Class/worksheets/conditionals_worksheet/index.html" />
         <option value="$PROJECT_DIR$/WPF_Class/worksheets/conditionals_worksheet/js/init.js" />
@@ -71,6 +104,9 @@
         <option value="$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/expressions.js" />
         <option value="$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/index.html" />
         <option value="$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/expressions.js" />
+        <option value="$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/industry.js" />
+        <option value="$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/wacky.js" />
+        <option value="$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/personal.js" />
       </list>
     </option>
   </component>
@@ -106,7 +142,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -153,11 +188,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Assignments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="expressions_assignment" />
+              <option name="myItemId" value="worksheets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -175,11 +206,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Assignments" />
+              <option name="myItemId" value="worksheets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="expressions_assignment" />
+              <option name="myItemId" value="expressions_worksheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_CabralDiogo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_CabralDiogo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_Class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worksheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expressions_worksheet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -207,6 +260,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,8 +270,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/WPF_Class/WPF/index.html" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -356,21 +410,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WPF_Class/wpf_day2/js/initial.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="47" selection-start="1186" selection-end="1186" vertical-scroll-proportion="1.4536517" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Class/worksheets/conditionals_worksheet/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="28" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Class/wpf_day4/js/day4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="0" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.71910113" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/wpf_day5/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="29" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0" />
@@ -378,90 +417,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/wpf_day5/js/init.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="204" column="0" selection-start="4222" selection-end="4222" vertical-scroll-proportion="4.171348">
-          <folding>
-            <element signature="n#!!doc;n#landSelection#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="204" column="0" selection-start="4222" selection-end="4222" vertical-scroll-proportion="4.171348" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_personal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="27" selection-start="92" selection-end="92" vertical-scroll-proportion="0.13081396">
-          <folding />
-        </state>
+        <state line="6" column="27" selection-start="92" selection-end="92" vertical-scroll-proportion="0.13081396" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_personal/js/init.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="23" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.5266854">
-          <folding>
-            <element signature="e#0#163#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="31" column="23" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.5266854" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_wacky/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="31" selection-start="96" selection-end="96" vertical-scroll-proportion="-3.75">
-          <folding />
-        </state>
+        <state line="6" column="31" selection-start="96" selection-end="96" vertical-scroll-proportion="-3.75" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_wacky/js/init.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="63" selection-start="524" selection-end="524" vertical-scroll-proportion="0.21067415">
-          <folding>
-            <element signature="e#0#163#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="16" column="63" selection-start="524" selection-end="524" vertical-scroll-proportion="0.21067415" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="35" selection-start="100" selection-end="100" vertical-scroll-proportion="-3.75">
-          <folding />
-        </state>
+        <state line="6" column="35" selection-start="100" selection-end="100" vertical-scroll-proportion="-3.75" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/WPF/JS/expressions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="40" selection-start="0" selection-end="1121" vertical-scroll-proportion="0.7261236">
-          <folding />
-        </state>
+        <state line="62" column="40" selection-start="0" selection-end="1121" vertical-scroll-proportion="0.7261236" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_industry/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="26" selection-start="91" selection-end="91" vertical-scroll-proportion="0.13081396">
-          <folding />
-        </state>
+        <state line="6" column="26" selection-start="91" selection-end="91" vertical-scroll-proportion="0.13081396" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_industry/js/init.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="2" selection-start="425" selection-end="425" vertical-scroll-proportion="0.1994382">
-          <folding />
-        </state>
+        <state line="17" column="2" selection-start="425" selection-end="425" vertical-scroll-proportion="0.1994382" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/worksheets/conditionals_worksheet/js/init.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="55" selection-start="222" selection-end="222" vertical-scroll-proportion="-0.6011236">
+        <state line="9" column="55" selection-start="222" selection-end="222" vertical-scroll-proportion="-0.6011236" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/expressions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="45" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/industry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/personal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/worksheets/expressions_worksheet/js/expressions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="28" selection-start="1955" selection-end="1955" vertical-scroll-proportion="1.0210674">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/expressions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="42" selection-start="207" selection-end="207" vertical-scroll-proportion="0.16853933">
+        <state line="55" column="28" selection-start="1955" selection-end="1955" vertical-scroll-proportion="0.61095506">
           <folding />
         </state>
       </provider>
