@@ -22,4 +22,10 @@ var qtyFemale = window.prompt(" How many females are coming?");
 
 var qtyUnder16 = window.prompt(" How many people under 16 years old are coming?");
 
+var bbqPlanner = [qtyTotalPeople , qtyMale, qtyFemale , qtyUnder16 ];
+
+console.log(bbqPlanner);
+
+
+
 
