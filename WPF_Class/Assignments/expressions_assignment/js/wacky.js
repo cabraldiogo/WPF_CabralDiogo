@@ -17,10 +17,12 @@ var salesPrice = parseInt(window.prompt("Enter the sales price of your product")
 var qtySold = parseInt(window.prompt("Enter how pieces did you sell so far"));
 
 
-var result = (salesPrice/cost)-1;
-var result2 = Math.round(result*100);
+var markUp = (salesPrice/cost)-1;
+var markUpRound = Math.round(markUp*100);
 
-console.log(result2);
+var revenue = salesPrice * qtySold;
+
+console.log("Your total revenue on this product was $" + revenue + " , and your markup is " + markUpRound + "%");
 
 
 
