@@ -9,7 +9,7 @@
     <file path="/day4.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379376058292" ignored="false" />
     <file path="/initial.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379383228158" ignored="false" />
     <file path="/init.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379710135455" ignored="false" />
-    <file path="/personal.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379727183395" ignored="false" />
+    <file path="/personal.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379728017294" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,22 +38,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="personal.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/personal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="0" selection-start="1130" selection-end="1130" vertical-scroll-proportion="0.6530899">
+              <folding>
+                <element signature="e#0#163#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="industry.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/industry.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="8" column="39" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="personal.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/personal.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="789" selection-end="789" vertical-scroll-proportion="0.44241574">
-              <folding>
-                <element signature="e#0#163#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -488,13 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Class/worksheets/expressions_worksheet/js/expressions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="18" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="27" selection-start="92" selection-end="92" vertical-scroll-proportion="-3.75">
@@ -502,9 +495,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Class/worksheets/expressions_worksheet/js/expressions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="18" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="789" selection-end="789" vertical-scroll-proportion="0.44241574">
+        <state line="37" column="0" selection-start="1130" selection-end="1130" vertical-scroll-proportion="0.6530899">
           <folding>
             <element signature="e#0#163#0" expanded="false" />
           </folding>

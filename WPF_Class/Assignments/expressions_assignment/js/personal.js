@@ -22,9 +22,22 @@ var qtyFemale = window.prompt(" How many females are coming?");
 
 var qtyUnder16 = window.prompt(" How many people under 16 years old are coming?");
 
-var bbqPlanner = [qtyTotalPeople , qtyMale, qtyFemale , qtyUnder16 ];
+//var bbqPlanner = [qtyTotalPeople , qtyMale, qtyFemale , qtyUnder16 ];
+//
+//console.log(bbqPlanner);
 
-console.log(bbqPlanner);
+//This array contains the quantity of beer per Male, Female and Under 16
+var beerQtyRate = [4,2,0];
+
+//This array contain the quantity of steak per Male, female and kids;
+var steakQtyrate = [400,300,100];
+
+var totalBeer = (qtyMale * beerQtyRate[0] + qtyFemale * beerQtyRate[1] + qtyUnder16 * beerQtyRate[2]);
+
+console.log(totalBeer);
+
+
+
 
 
 
