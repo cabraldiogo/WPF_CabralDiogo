@@ -12,3 +12,13 @@
 
 var carPrice = window.prompt("Enter the desired car value");
 
+var salesTax = window.prompt ("Enter the sales tax on your town");
+
+var monthTerms = window.prompt("Enter the number of months are your term");
+
+var aprRate = window.prompt("Enter the annual percentage rate (APR).");
+
+var downPayment = window.prompt("Enter the downpayment value or the trade-in value");
+
+
+

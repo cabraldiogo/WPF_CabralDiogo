@@ -10,7 +10,7 @@
     <file path="/initial.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379383228158" ignored="false" />
     <file path="/init.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379710135455" ignored="false" />
     <file path="/personal.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379728536852" ignored="false" />
-    <file path="/industry.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379787365520" ignored="false" />
+    <file path="/industry.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379787628427" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
       <file leaf-file-name="industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="206" selection-end="269" vertical-scroll-proportion="0.084269665">
+            <state line="22" column="0" selection-start="638" selection-end="638" vertical-scroll-proportion="0.33707866">
               <folding>
                 <element signature="e#0#163#0" expanded="false" />
               </folding>
@@ -442,7 +442,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/worksheets/expressions_worksheet/js/expressions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="18" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.37921348" />
+        <state line="39" column="18" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.37921348">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/expressions.js">
@@ -463,7 +465,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="206" selection-end="269" vertical-scroll-proportion="0.084269665">
+        <state line="22" column="0" selection-start="638" selection-end="638" vertical-scroll-proportion="0.33707866">
           <folding>
             <element signature="e#0#163#0" expanded="false" />
           </folding>
