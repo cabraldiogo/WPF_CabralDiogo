@@ -37,7 +37,7 @@ console.log("Each person ate "+ slicesPerson+ " slices of pizza at the party");
 // Pizza part. 2//
 
 var leftover = pizzas * SlicesPerPizza % people;
-console.log("Spary got "+leftover+ " slices of pizza");
+console.log("Sparky got "+leftover+ " slices of pizza");
 
 
 
