@@ -9,7 +9,7 @@
     <file path="/day4.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379376058292" ignored="false" />
     <file path="/initial.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379383228158" ignored="false" />
     <file path="/init.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379710135455" ignored="false" />
-    <file path="/personal.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379728017294" ignored="false" />
+    <file path="/personal.js" changelist="490582e9-05dd-4b47-a1a2-c5f9651e0242" time="1379728536852" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
       <file leaf-file-name="personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="0" selection-start="1130" selection-end="1130" vertical-scroll-proportion="0.6530899">
+            <state line="34" column="24" selection-start="1267" selection-end="1267" vertical-scroll-proportion="0.5898876">
               <folding>
                 <element signature="e#0#163#0" expanded="false" />
               </folding>
@@ -504,7 +504,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/expressions_assignment/js/personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="1130" selection-end="1130" vertical-scroll-proportion="0.6530899">
+        <state line="34" column="24" selection-start="1267" selection-end="1267" vertical-scroll-proportion="0.5898876">
           <folding>
             <element signature="e#0#163#0" expanded="false" />
           </folding>
