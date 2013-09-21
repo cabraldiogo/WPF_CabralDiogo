@@ -32,6 +32,7 @@ var totalBeer = (qtyMale * beerQtyRate[0] + qtyFemale * beerQtyRate[1] + qtyUnde
 //This variable will calculate how many kilos of steak the organizer needs to buy
 var totalSteak = (qtyMale * steakQtyrate[0] + qtyFemale * steakQtyrate[1] + qtyUnder16 * steakQtyrate[2])/1000;
 
+//The final result shows how many cans of beer and how many kilograms of steak the organizer needs to buy
 console.log("You should buy "+ totalBeer + " bottles of beer and " + totalSteak + "Kg of steak.");
 
 
