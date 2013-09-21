@@ -10,15 +10,20 @@
 
 //I will create a monthly payment calculator for car financing.
 
-var carPrice = window.prompt("Enter the desired car value");
+var carPrice = parseInt(window.prompt("Enter the desired car value"));
 
-var salesTax = window.prompt ("Enter the sales tax on your town");
+var salesTax =  parseInt(window.prompt ("Enter the sales tax on your town"));
 
-var monthTerms = window.prompt("Enter the number of months are your term");
+var monthTerms = parseInt(window.prompt("Enter the number of months are your term"));
 
-var aprRate = window.prompt("Enter the annual percentage rate (APR).");
+var aprRate = parseInt(window.prompt("Enter the annual percentage rate (APR)."));
 
-var downPayment = window.prompt("Enter the downpayment value or the trade-in value");
+var downPayment = parseInt(window.prompt("Enter the downpayment value or the trade-in value"));
+
+var salesTaxDecimal = salesTax/100;
 
 
+
+var totalValue = (carPrice) + (carPrice*salesTaxDecimal) - downPayment;
+console.log(totalValue);
 
