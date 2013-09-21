@@ -6,7 +6,7 @@
  * To change this template use File | Settings | File Templates.
  */
 
-//    Diogo Cabral - ExpressionsAssignment
+//    Diogo Cabral - Expressions Screencast
 
 //screencast - basic expressions//
 var a = 3;
