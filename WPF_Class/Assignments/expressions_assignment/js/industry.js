@@ -27,14 +27,13 @@ var salesTaxDecimal = (salesTax/100);
 var salesTaxValue = (carPrice * salesTaxDecimal);
 var monthlyInterest = (aprRate/12);
 var totalInterest = (monthlyInterest*monthTerms)/100 * (carPrice - downPayment);
-var totalValue = (carPrice - downPayment) * (totalInterest) + (salesTaxValue);
+var totalValue = (carPrice - downPayment) + totalInterest + salesTaxValue;
+var monthlyPayment = Math.round(totalValue/monthTerms);
 
 
 
 
 
-console.log(monthlyInterest);
-console.log(totalValueWithTax);
-console.log(totalValue);
-console.log(salesTaxValue);
+
+
 
