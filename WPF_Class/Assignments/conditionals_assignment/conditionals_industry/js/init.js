@@ -15,10 +15,10 @@ var week1 = window.parseInt (prompt("How many meters did you run on week 1 ?"));
 //This is a prompt window to input a numeric value
 var week2 = window.parseInt (prompt("How many meters did you run on week 2 ?"));
 
-////This is a prompt window to input a numeric value
+//This is a prompt window to input a numeric value
 var week3 = window.parseInt (prompt("How many meters did you run on week 3 ?"));
 
-////This is a prompt window to input a numeric value
+//This is a prompt window to input a numeric value
 var week4 = window.parseInt (prompt("How many meters did you run on week 4 ?"));
 
 //This variable get the sum of all four values entered by the user
