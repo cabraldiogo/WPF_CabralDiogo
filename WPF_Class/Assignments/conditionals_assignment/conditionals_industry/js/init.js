@@ -6,17 +6,11 @@
  * To change this template use File | Settings | File Templates.
  */
 
-//Diogo Cabral - 9/16/2013 - Conditionals Assignment//
+//Diogo Cabral - 9/16/2013 - Conditionals Assignment - Industry//
 
 
 //This is a prompt window to input a numeric value
 var week1 = window.parseInt (prompt("How many meters did you run on week 1 ?"));
-if (isNaN(week1) ){
-
-    console.log("Please enter a numeric value")
-
-}
-
 
 //This is a prompt window to input a numeric value
 var week2 = window.parseInt (prompt("How many meters did you run on week 2 ?"));
