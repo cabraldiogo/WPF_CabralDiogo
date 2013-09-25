@@ -8,36 +8,46 @@
 
 
 
-var a = parseInt(prompt(''));
-var b = parseInt(prompt());
-var c = a * b * b;
-console.log (c);
+//var a = parseInt(prompt(''));
+//var b = parseInt(prompt());
+//var c = a * b * b;
+//console.log (c);
+//
+//
+//var array = ["Blue", "black", "red", "green", "gray", "pink", "silver"];
+//
+//var array2 = [];
+// array2[0] = "Grape";
+// array2[1] = "Strawberry";
+// array2[2] = "Orange";
+// array2[3] = "Apple";
+//
+//if(array.length > array2.length){
+//    console.log(array);
+//} else {
+//    console.log (array2);
+//
+//}
+//
+//function myFunction (int1, int2, int3){
+//
+//
+//    return(int1 + int2 + int3);
+//
+//
+//
+//}
+//
+//console.log(myFunction(3,4,5));
+
+// 3 parameters, first, last, age
+
+function studentInfo(firstName,lastName,age){
 
 
-var array = ["Blue", "black", "red", "green", "gray", "pink", "silver"];
-
-var array2 = [];
- array2[0] = "Grape";
- array2[1] = "Strawberry";
- array2[2] = "Orange";
- array2[3] = "Apple";
-
-if(array.length > array2.length){
-    console.log(array);
-} else {
-    console.log (array2);
+    return 'Here is a string '+firstName+lastName+age;
 
 }
 
-function myFunction (int1, int2, int3){
-
-
-    return(int1 + int2 + int3);
-
-
-
-}
-
-console.log(myFunction(3,4,5));
-
+ console.log(studentInfo("Diogo","Cabral",39));
 
