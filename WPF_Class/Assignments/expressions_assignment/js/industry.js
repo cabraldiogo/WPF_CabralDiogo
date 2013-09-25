@@ -8,6 +8,12 @@
 
 //Diogo Cabral - Expressions Assignment
 
+
+
+//*****Joe Dalton *****//
+    //Good use of comments and more complex math
+
+
 //I will create a monthly payment calculator for car financing.
 
 //This input requires the price of the desired car

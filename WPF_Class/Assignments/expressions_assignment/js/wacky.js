@@ -8,6 +8,11 @@
 
 //Diogo Cabral - Expressions Assignment
 
+
+//*****Joe Dalton *****//
+
+//This looks very good
+
 alert("This is calculator for your markup value of a product");
 
 //This prompt get the cost of a product
