@@ -24,7 +24,7 @@ function percent(result){
    return Math.round(result*100) + "%";
 }
 
-//console.log("Check below your percentage of this month sales compared with the same month last year");
+
 
 (result > 0) ?
     console.log(("This month you increased your sales on " ) + percent(result)):
