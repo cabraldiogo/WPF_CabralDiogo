@@ -41,10 +41,8 @@
       <file leaf-file-name="personal.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/functions_assignment/js/personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#163#0" expanded="false" />
-              </folding>
+            <state line="11" column="0" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -63,7 +61,7 @@
       <file leaf-file-name="industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/functions_assignment/js/industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="3" selection-start="1203" selection-end="1203" vertical-scroll-proportion="0.7644628">
+            <state line="36" column="34" selection-start="1126" selection-end="1126" vertical-scroll-proportion="0.6198347">
               <folding>
                 <element signature="e#0#163#0" expanded="false" />
               </folding>
@@ -74,7 +72,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/functions_assignment/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="-3.75">
+            <state line="6" column="50" selection-start="110" selection-end="110" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
@@ -111,9 +109,9 @@
         <option value="$PROJECT_DIR$/WPF_Class/wpf_day8/index.html" />
         <option value="$PROJECT_DIR$/WPF_Class/wpf_day8/js/exercise.js" />
         <option value="$PROJECT_DIR$/WPF_Class/Assignments/functions_assignment/js/wacky.js" />
-        <option value="$PROJECT_DIR$/WPF_Class/Assignments/functions_assignment/js/personal.js" />
         <option value="$PROJECT_DIR$/WPF_Class/Assignments/functions_assignment/index.html" />
         <option value="$PROJECT_DIR$/WPF_Class/Assignments/functions_assignment/js/industry.js" />
+        <option value="$PROJECT_DIR$/WPF_Class/Assignments/functions_assignment/js/personal.js" />
       </list>
     </option>
   </component>
@@ -565,12 +563,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/functions_assignment/js/personal.js">
+    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_industry/js/init.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#163#0" expanded="false" />
-          </folding>
+        <state line="12" column="0" selection-start="284" selection-end="364" vertical-scroll-proportion="0.24793388">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -583,23 +579,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/conditionals_assignment/conditionals_industry/js/init.js">
+    <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/functions_assignment/js/personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="284" selection-end="364" vertical-scroll-proportion="0.24793388">
+        <state line="11" column="0" selection-start="209" selection-end="209" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/functions_assignment/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="-3.75">
+        <state line="6" column="50" selection-start="110" selection-end="110" vertical-scroll-proportion="-3.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Class/Assignments/functions_assignment/js/industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="3" selection-start="1203" selection-end="1203" vertical-scroll-proportion="0.7644628">
+        <state line="36" column="34" selection-start="1126" selection-end="1126" vertical-scroll-proportion="0.6198347">
           <folding>
             <element signature="e#0#163#0" expanded="false" />
           </folding>
