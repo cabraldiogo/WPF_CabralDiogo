@@ -10,6 +10,21 @@
 //    DIOGO CABRAL - FUNCTIONS ASSIGNMENT
 
 
+var thisMonth = parseInt(prompt("Enter this month total sales"));
+var lastYearMonht = parseInt(prompt("Enter the total sales of the same monht last year"));
+
+
+var result = (thisMonth/lastYearMonht)-1;
+
+
+
+var percentResult = result*100;
+
+
+
+
+console.log(percentResult);
+
 
 
 
