@@ -16,14 +16,28 @@ var lastYearMonht = parseInt(prompt("Enter the total sales of the same monht las
 
 var result = (thisMonth/lastYearMonht)-1;
 
+//console.log(result);
 
 
-var percentResult = result*100;
+function percent(result){
+
+   return Math.round(result*100) + "%";
+}
+
+//console.log("Check below your percentage of this month sales compared with the same month last year");
+
+(result > 0) ?
+    console.log(("This month you increased your sales on " ) + percent(result)):
+    console.log(("This month you decreased your sales on " ) + percent(result));
 
 
 
 
-console.log(percentResult);
+
+
+
+
+
 
 
 
