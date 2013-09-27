@@ -11,9 +11,6 @@
 
 var monthInput = parseInt(prompt("Enter month"));
 
-function  monthName()
-
-{
 
 var months = [];
 months[0] = "January";
@@ -29,9 +26,12 @@ months[9] = "October";
 months[10] = "November";
 months[11] = "December";
 
-return months[monthInput];
 
-}
 
-//console.log(monthName);
+console.log(months);
+
+
+
+
+
 
